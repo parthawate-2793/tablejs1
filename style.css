@@ -1,0 +1,15 @@
+#data td{
+    background-color: rgb(122, 190, 194);
+    padding: 15px;
+}
+#data th{
+    background-color:rgb(44, 247, 125);
+    padding: 20px;
+}
+#body{
+    background-color: rgb(185, 138, 251);
+}
+.container{
+    margin: auto;
+    width: 200px;
+}
